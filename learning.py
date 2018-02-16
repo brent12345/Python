@@ -1,9 +1,6 @@
 #!/bin/python3
 import json
-import turtle
 import urllib.request
-from http import client
-
 import gmplot
 import py3 as py3
 from requests import api
